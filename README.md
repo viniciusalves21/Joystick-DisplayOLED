@@ -1,5 +1,5 @@
 ## Joystick-DisplayOLED
-# Este repositório contém um código em C para Raspberry Pi Pico que demonstra a interação com um display OLED SSD1306, LEDs RGB e um joystick, utilizando interrupções e PWM.
+Este repositório contém um código em C para Raspberry Pi Pico que demonstra a interação com um display OLED SSD1306, LEDs RGB e um joystick, utilizando interrupções e PWM.
 
 # Funcionalidades
 Joystick: Controla a posição de um quadrado no display OLED e o brilho dos LEDs vermelho e azul.
